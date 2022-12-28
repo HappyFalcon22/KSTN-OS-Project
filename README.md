@@ -2,4 +2,4 @@
 Nghiên cứu khoa học môn Hệ điều hành (Mở rộng) - HK221
 
 ## Thực hiện : Trịnh Cao Thắng (2014550)
-## Link báo cáo : https://www.overleaf.com/read/mcyxfqwgktbc
+## Link báo cáo (Tiếng Việt) : https://www.overleaf.com/read/mcyxfqwgktbc
